@@ -1,0 +1,1 @@
+setx PDI_PATH "C:\dev\pbp\apps\data-integration"
